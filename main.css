@@ -160,4 +160,12 @@ h3{
         border-radius: 15px;
        
     } 
+    .avatar{
+        border-radius: 50%;
+        width: 130px;
+        height: 130px;
+        position: absolute;
+        top: -75px;
+        left: 38%;
+    }
 }
